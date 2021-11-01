@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Trevor/AppData/Local/Android/Sdk/platforms/android-31/data/res/layout/simple_list_item_1.xml" value="0.5541666666666667" />
+        <entry key="..\:/Users/Trevor/Documents/mpMaps/app/src/main/res/layout/activity_main.xml" value="0.5541666666666667" />
+        <entry key="..\:/Users/Trevor/Documents/mpMaps/app/src/main/res/layout/dialog_create_map.xml" value="0.28802083333333334" />
+        <entry key="..\:/Users/Trevor/Documents/mpMaps/app/src/main/res/layout/dialog_create_place.xml" value="0.3307291666666667" />
+        <entry key="..\:/Users/Trevor/Documents/mpMaps/app/src/main/res/layout/item_user_map.xml" value="0.32760416666666664" />
+        <entry key="..\:/Users/Trevor/Documents/mpMaps/app/src/main/res/menu/menu_create_map.xml" value="0.49270833333333336" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
